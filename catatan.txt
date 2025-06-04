@@ -1,0 +1,12 @@
+tgl 6 mei:/cari cara menambahkan backdrop filter/
+tgl 7 mei:/debug error pada menu mode mobile background tidak bisa tampil/
+
+
+
+tgl 25 mei:/MENU SERVICES/ ganti urutan services jadi 1.topup, 2.jockey, 3.freegames, 4.competition  , 5.community/
+tgl 25 mei:/PAGE LOGIN/ beri tombol back to home untuk navigasi/ beri warna di tulisan WEB jadi orangred/
+tgl 25 mei:/html adam: index, login, about, search, berita, jockey1, jockey2, jockey3, berita1, after login/
+tgl 30 mei:/html fadil: bagian topup/
+tgl 30 mei:/html Adly: bagian free games/
+tgl 30 mei:/html Farel: bagian competition/
+tgl 30 mei:/html zaky: bagian info games:seputar tips dan triks/
